@@ -2,8 +2,8 @@
   border: 5px solid #e1bee7;
   background-color: #fff1ff;
   display: grid;
-  grid-template-rows: 60px 200px 100px;
   grid-template-columns: 60px 200px 100px 100px;
+  grid-auto-rows: 150px;
 }
 .item{
     border: 5px solid #00bcd4;
